@@ -1,1 +1,1 @@
-Search engine used to search different products in shoppin page
+A search engine used to find different products on a shopping page.
